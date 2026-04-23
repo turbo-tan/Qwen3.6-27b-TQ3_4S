@@ -7,6 +7,7 @@ Core Setup:
 - Black background with a parallax star field (50 animated stars drifting downward at different speeds and brightness)
 
 Game States: Start screen, Playing, Paused, Game Over, and Level Complete (wave transition)
+
 Player Ship:
 - Drawn as a detailed ship with hull body, cockpit, wing accents, and flickering engine flames (cyan by default, green glow when "rapid" power-up is active)
 - Move with arrow keys or WASD. Up/down constrained to lower portion of screen
@@ -65,8 +66,11 @@ UI Elements:
 - Lives as mini ship icons (top-right)
 
 Start Screen: Title "SPACE INVADERS" in cyan with "ULTIMATE EDITION" subtitle in purple, controls listed, "Press SPACE to Start" in yellow
+
 Level Up: Green "WAVE X" text centered, brief pause then spawns next wave
+
 Game Over: Semi-transparent black overlay, "GAME OVER" in red, final score, "NEW HIGH SCORE!" if beaten, "Press SPACE to Restart" in green
+
 Pause: White "PAUSED" text centered. P or ESC to resume
 
 Controls:
