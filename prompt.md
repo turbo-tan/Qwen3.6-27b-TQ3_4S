@@ -1,6 +1,7 @@
 Prompt:
 Create a complete Space Invaders arcade game in Python using Pygame. The game should be a single file (space_invaders.py) with the following 
 features:
+
 Core Setup:
 - 800x700 screen at 60 FPS using Pygame
 - Black background with a parallax star field (50 animated stars drifting downward at different speeds and brightness)
